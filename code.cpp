@@ -1,4 +1,7 @@
-#include<bits/stdc++.h>
+//header files for the code in c++
+#include <iostream>
+#include <conio.h>
+//#include<bits/stdc++.h>
 using namespace std;
 
 
